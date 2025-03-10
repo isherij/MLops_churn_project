@@ -1,0 +1,1078 @@
+[2025-02-28T22:05:28.722+0100] {processor.py:186} INFO - Started process (PID=1423) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:05:28.722+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:05:28.724+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:05:28.724+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:05:30.723+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:05:30.742+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:05:30.741+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:05:30.760+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:05:30.760+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-27 00:00:00+00:00, run_after=2025-02-28 00:00:00+00:00
+[2025-02-28T22:05:30.778+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 2.063 seconds
+[2025-02-28T22:06:48.060+0100] {processor.py:186} INFO - Started process (PID=1824) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:06:48.063+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:06:48.064+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:06:48.064+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:06:49.177+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:06:49.191+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:06:49.191+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:06:49.208+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:06:49.208+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:06:49.223+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.167 seconds
+[2025-02-28T22:07:40.062+0100] {processor.py:186} INFO - Started process (PID=1934) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:07:40.070+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:07:40.072+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:07:40.071+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:07:41.563+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:07:41.576+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:07:41.576+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:07:41.592+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:07:41.592+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:07:41.609+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.553 seconds
+[2025-02-28T22:08:38.899+0100] {processor.py:186} INFO - Started process (PID=2283) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:08:38.900+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:08:38.902+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:08:38.902+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:08:40.137+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:08:40.152+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:08:40.151+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:08:40.167+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:08:40.167+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:08:40.182+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.290 seconds
+[2025-02-28T22:09:36.812+0100] {processor.py:186} INFO - Started process (PID=2356) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:09:36.814+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:09:36.816+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:09:36.816+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:09:37.958+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:09:37.969+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:09:37.969+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:09:37.983+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:09:37.983+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:09:37.999+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.192 seconds
+[2025-02-28T22:10:30.347+0100] {processor.py:186} INFO - Started process (PID=2426) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:10:30.349+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:10:30.350+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:10:30.350+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:10:31.526+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:10:31.537+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:10:31.536+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:10:31.552+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:10:31.552+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:10:31.594+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.251 seconds
+[2025-02-28T22:11:26.369+0100] {processor.py:186} INFO - Started process (PID=2524) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:11:26.371+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:11:26.373+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:11:26.372+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:11:27.548+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:11:27.560+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:11:27.560+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:11:27.576+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:11:27.576+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:11:27.592+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.228 seconds
+[2025-02-28T22:12:24.182+0100] {processor.py:186} INFO - Started process (PID=2718) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:12:24.183+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:12:24.185+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:12:24.184+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:12:25.410+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:12:25.421+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:12:25.421+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:12:25.435+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:12:25.435+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:12:25.450+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.274 seconds
+[2025-02-28T22:17:50.701+0100] {processor.py:186} INFO - Started process (PID=1427) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:17:50.702+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:17:50.704+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:17:50.704+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:17:53.242+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:17:53.261+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:17:53.261+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:17:53.280+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:17:53.280+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:17:53.298+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 2.603 seconds
+[2025-02-28T22:18:50.598+0100] {processor.py:186} INFO - Started process (PID=1508) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:18:50.601+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:18:50.602+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:18:50.602+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:18:51.854+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:18:51.865+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:18:51.865+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:18:51.881+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:18:51.881+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:18:51.897+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.302 seconds
+[2025-02-28T22:19:50.608+0100] {processor.py:186} INFO - Started process (PID=1646) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:19:50.611+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:19:50.613+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:19:50.612+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:19:51.838+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:19:51.850+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:19:51.850+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:19:51.865+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:19:51.865+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:19:51.879+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.275 seconds
+[2025-02-28T22:20:47.597+0100] {processor.py:186} INFO - Started process (PID=1767) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:20:47.600+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:20:47.601+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:20:47.601+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:20:48.769+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:20:48.781+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:20:48.781+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:20:48.795+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:20:48.794+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:20:48.811+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.218 seconds
+[2025-02-28T22:21:42.037+0100] {processor.py:186} INFO - Started process (PID=1873) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:21:42.038+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:21:42.040+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:21:42.040+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:21:43.173+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:21:43.185+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:21:43.184+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:21:43.199+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:21:43.199+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:21:43.215+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.183 seconds
+[2025-02-28T22:22:35.687+0100] {processor.py:186} INFO - Started process (PID=1974) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:22:35.689+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:22:35.691+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:22:35.691+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:22:36.880+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:22:36.892+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:22:36.892+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:22:36.907+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:22:36.907+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:22:36.923+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.241 seconds
+[2025-02-28T22:23:28.318+0100] {processor.py:186} INFO - Started process (PID=2088) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:23:28.320+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:23:28.322+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:23:28.322+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:23:29.602+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:23:29.614+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:23:29.614+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:23:29.630+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:23:29.629+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:23:29.647+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.334 seconds
+[2025-02-28T22:24:24.738+0100] {processor.py:186} INFO - Started process (PID=2195) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:24:24.741+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:24:24.742+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:24:24.742+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:24:25.889+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:24:25.899+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:24:25.899+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:24:25.915+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:24:25.914+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:24:25.930+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.196 seconds
+[2025-02-28T22:25:20.473+0100] {processor.py:186} INFO - Started process (PID=2300) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:25:20.475+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:25:20.477+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:25:20.477+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:25:21.618+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:25:21.631+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:25:21.630+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:25:21.647+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:25:21.647+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:25:21.662+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.194 seconds
+[2025-02-28T22:26:15.045+0100] {processor.py:186} INFO - Started process (PID=2465) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:26:15.046+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:26:15.048+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:26:15.048+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:26:16.206+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:26:16.221+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:26:16.220+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:26:16.236+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:26:16.236+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:26:16.252+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.213 seconds
+[2025-02-28T22:27:38.121+0100] {processor.py:186} INFO - Started process (PID=2923) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:27:38.122+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:27:38.124+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:27:38.124+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:27:39.391+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:27:39.403+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:27:39.403+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:27:39.420+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:27:39.420+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:27:39.435+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.319 seconds
+[2025-02-28T22:28:12.702+0100] {processor.py:186} INFO - Started process (PID=2994) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:28:12.704+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:28:12.706+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:28:12.706+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:28:13.898+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:28:13.913+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:28:13.912+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:28:13.928+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:28:13.928+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:28:13.945+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.248 seconds
+[2025-02-28T22:29:05.495+0100] {processor.py:186} INFO - Started process (PID=3096) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:29:05.497+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:29:05.499+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:29:05.499+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:29:06.697+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:29:06.708+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:29:06.708+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:29:06.722+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:29:06.722+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:29:06.740+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.249 seconds
+[2025-02-28T22:29:47.047+0100] {processor.py:186} INFO - Started process (PID=3201) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:29:47.048+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:29:47.049+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:29:47.049+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:29:48.222+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:29:48.238+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:29:48.237+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:29:48.253+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:29:48.253+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:29:48.268+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.226 seconds
+[2025-02-28T22:31:08.468+0100] {processor.py:186} INFO - Started process (PID=3696) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:31:08.469+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:31:08.471+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:31:08.471+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:31:09.775+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:31:09.787+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:31:09.787+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:31:09.804+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:31:09.804+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:31:09.828+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.365 seconds
+[2025-02-28T22:31:47.019+0100] {processor.py:186} INFO - Started process (PID=3774) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:31:47.020+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:31:47.022+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:31:47.022+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:31:48.165+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:31:48.176+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:31:48.176+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:31:48.191+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:31:48.191+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:31:48.223+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.209 seconds
+[2025-02-28T22:32:40.372+0100] {processor.py:186} INFO - Started process (PID=3878) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:32:40.375+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:32:40.376+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:32:40.376+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:32:41.542+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:32:41.553+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:32:41.553+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:32:41.567+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:32:41.567+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:32:41.585+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.217 seconds
+[2025-02-28T22:33:21.192+0100] {processor.py:186} INFO - Started process (PID=4003) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:33:21.193+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:33:21.194+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:33:21.194+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:33:22.376+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:33:22.391+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:33:22.390+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:33:22.406+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:33:22.406+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:33:22.422+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.235 seconds
+[2025-02-28T22:34:18.892+0100] {processor.py:186} INFO - Started process (PID=4120) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:34:18.894+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:34:18.896+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:34:18.895+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:34:20.043+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:34:20.054+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:34:20.053+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:34:20.069+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:34:20.068+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:34:20.084+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.196 seconds
+[2025-02-28T22:35:13.656+0100] {processor.py:186} INFO - Started process (PID=4228) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:35:13.658+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:35:13.660+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:35:13.659+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:35:14.823+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:35:14.837+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:35:14.836+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:35:14.852+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:35:14.851+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:35:14.867+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.216 seconds
+[2025-02-28T22:36:10.911+0100] {processor.py:186} INFO - Started process (PID=4341) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:36:10.914+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:36:10.915+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:36:10.915+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:36:12.054+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:36:12.067+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:36:12.067+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:36:12.083+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:36:12.082+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:36:12.098+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.191 seconds
+[2025-02-28T22:37:08.583+0100] {processor.py:186} INFO - Started process (PID=4450) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:37:08.586+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:37:08.588+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:37:08.587+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:37:09.720+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:37:09.732+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:37:09.732+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:37:09.747+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:37:09.746+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:37:09.762+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.183 seconds
+[2025-02-28T22:38:04.730+0100] {processor.py:186} INFO - Started process (PID=4554) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:38:04.733+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:38:04.734+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:38:04.734+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:38:05.865+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:38:05.877+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:38:05.877+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:38:05.892+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:38:05.892+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:38:05.908+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.182 seconds
+[2025-02-28T22:38:59.977+0100] {processor.py:186} INFO - Started process (PID=4658) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:38:59.978+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:38:59.980+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:38:59.979+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:39:01.103+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:39:01.114+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:39:01.113+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:39:01.128+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:39:01.128+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:39:01.143+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.170 seconds
+[2025-02-28T22:39:54.313+0100] {processor.py:186} INFO - Started process (PID=4761) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:39:54.314+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:39:54.316+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:39:54.315+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:39:55.439+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:39:55.450+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:39:55.449+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:39:55.465+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:39:55.465+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:39:55.481+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.173 seconds
+[2025-02-28T22:40:49.908+0100] {processor.py:186} INFO - Started process (PID=4864) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:40:49.910+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:40:49.912+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:40:49.912+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:40:51.081+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:40:51.093+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:40:51.092+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:40:51.107+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:40:51.107+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:40:51.122+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.219 seconds
+[2025-02-28T22:41:45.684+0100] {processor.py:186} INFO - Started process (PID=4970) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:41:45.687+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:41:45.688+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:41:45.688+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:41:46.941+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:41:46.954+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:41:46.954+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:41:46.970+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:41:46.970+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:41:46.988+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.308 seconds
+[2025-02-28T22:42:39.792+0100] {processor.py:186} INFO - Started process (PID=5078) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:42:39.794+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:42:39.796+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:42:39.796+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:42:41.048+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:42:41.061+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:42:41.060+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:42:41.077+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:42:41.076+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:42:41.093+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.311 seconds
+[2025-02-28T22:43:35.967+0100] {processor.py:186} INFO - Started process (PID=5153) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:43:35.969+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:43:35.971+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:43:35.971+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:43:37.185+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:43:37.196+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:43:37.196+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:43:37.211+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:43:37.211+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:43:37.227+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.264 seconds
+[2025-02-28T22:44:27.889+0100] {processor.py:186} INFO - Started process (PID=5225) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:44:27.892+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:44:27.893+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:44:27.893+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:44:29.125+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:44:29.137+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:44:29.137+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:44:29.152+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:44:29.152+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:44:29.168+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.283 seconds
+[2025-02-28T22:45:23.665+0100] {processor.py:186} INFO - Started process (PID=5298) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:45:23.667+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:45:23.669+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:45:23.669+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:45:24.841+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:45:24.853+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:45:24.852+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:45:24.867+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:45:24.867+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:45:24.886+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.226 seconds
+[2025-02-28T22:46:19.412+0100] {processor.py:186} INFO - Started process (PID=5424) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:46:19.414+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:46:19.416+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:46:19.416+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:46:20.542+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:46:20.553+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:46:20.552+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:46:20.567+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:46:20.567+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:46:20.582+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.175 seconds
+[2025-02-28T22:47:13.808+0100] {processor.py:186} INFO - Started process (PID=5526) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:47:13.811+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:47:13.812+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:47:13.812+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:47:14.976+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:47:14.987+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:47:14.987+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:47:15.002+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:47:15.002+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:47:15.019+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.216 seconds
+[2025-02-28T22:48:11.436+0100] {processor.py:186} INFO - Started process (PID=5634) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:48:11.439+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:48:11.440+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:48:11.440+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:48:12.554+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:48:12.566+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:48:12.566+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:48:12.580+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:48:12.580+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:48:12.597+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.165 seconds
+[2025-02-28T22:49:03.978+0100] {processor.py:186} INFO - Started process (PID=5735) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:49:03.980+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:49:03.982+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:49:03.982+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:49:05.109+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:49:05.120+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:49:05.119+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:49:05.134+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:49:05.134+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:49:05.152+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.178 seconds
+[2025-02-28T22:49:57.670+0100] {processor.py:186} INFO - Started process (PID=5836) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:49:57.673+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:49:57.675+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:49:57.674+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:49:58.808+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:49:58.818+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:49:58.818+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:49:58.833+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:49:58.833+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:49:58.849+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.183 seconds
+[2025-02-28T22:50:53.242+0100] {processor.py:186} INFO - Started process (PID=5941) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:50:53.245+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:50:53.247+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:50:53.246+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:50:54.382+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:50:54.394+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:50:54.394+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:50:54.408+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:50:54.408+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:50:54.424+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.186 seconds
+[2025-02-28T22:51:48.970+0100] {processor.py:186} INFO - Started process (PID=6051) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:51:48.972+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:51:48.974+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:51:48.974+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:51:50.099+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:51:50.110+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:51:50.109+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:51:50.124+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:51:50.124+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:51:50.140+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.175 seconds
+[2025-02-28T22:52:47.497+0100] {processor.py:186} INFO - Started process (PID=6157) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:52:47.498+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:52:47.500+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:52:47.500+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:52:48.854+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:52:48.865+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:52:48.865+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:52:48.882+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:52:48.882+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:52:48.899+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.407 seconds
+[2025-02-28T22:53:41.547+0100] {processor.py:186} INFO - Started process (PID=6260) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:53:41.549+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:53:41.551+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:53:41.550+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:53:42.686+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:53:42.697+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:53:42.697+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:53:42.711+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:53:42.711+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:53:42.726+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.184 seconds
+[2025-02-28T22:54:36.029+0100] {processor.py:186} INFO - Started process (PID=6368) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:54:36.031+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:54:36.033+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:54:36.033+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:54:37.244+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:54:37.257+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:54:37.257+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:54:37.273+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:54:37.273+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:54:37.288+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.265 seconds
+[2025-02-28T22:55:28.643+0100] {processor.py:186} INFO - Started process (PID=6470) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:55:28.646+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:55:28.647+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:55:28.647+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:55:29.812+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:55:29.823+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:55:29.822+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:55:29.837+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:55:29.837+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:55:29.854+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.217 seconds
+[2025-02-28T22:56:22.680+0100] {processor.py:186} INFO - Started process (PID=6581) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:56:22.682+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:56:22.683+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:56:22.683+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:56:23.831+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:56:23.842+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:56:23.842+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:56:23.857+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:56:23.857+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:56:23.873+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.198 seconds
+[2025-02-28T22:57:18.713+0100] {processor.py:186} INFO - Started process (PID=6672) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:57:18.715+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:57:18.716+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:57:18.716+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:57:19.902+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:57:19.914+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:57:19.914+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:57:19.929+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:57:19.929+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:57:19.944+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.235 seconds
+[2025-02-28T22:58:12.388+0100] {processor.py:186} INFO - Started process (PID=6773) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:58:12.390+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:58:12.392+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:58:12.392+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:58:13.554+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:58:13.566+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:58:13.566+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:58:13.583+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:58:13.582+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:58:13.598+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.215 seconds
+[2025-02-28T22:59:09.685+0100] {processor.py:186} INFO - Started process (PID=6889) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:59:09.687+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T22:59:09.689+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:59:09.689+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:59:10.854+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T22:59:10.868+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:59:10.868+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T22:59:10.884+0100] {logging_mixin.py:190} INFO - [2025-02-28T22:59:10.884+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T22:59:10.903+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.223 seconds
+[2025-02-28T23:00:03.444+0100] {processor.py:186} INFO - Started process (PID=6990) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:00:03.445+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:00:03.447+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:00:03.447+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:00:04.754+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:00:04.766+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:00:04.765+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:00:04.782+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:00:04.782+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:00:04.798+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.362 seconds
+[2025-02-28T23:00:58.773+0100] {processor.py:186} INFO - Started process (PID=7063) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:00:58.775+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:00:58.777+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:00:58.777+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:00:59.955+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:00:59.969+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:00:59.969+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:00:59.985+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:00:59.984+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:01:00.000+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.232 seconds
+[2025-02-28T23:01:53.829+0100] {processor.py:186} INFO - Started process (PID=7133) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:01:53.832+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:01:53.834+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:01:53.834+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:01:55.034+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:01:55.045+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:01:55.045+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:01:55.061+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:01:55.061+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:01:55.075+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.253 seconds
+[2025-02-28T23:02:50.169+0100] {processor.py:186} INFO - Started process (PID=7205) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:02:50.170+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:02:50.172+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:02:50.171+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:02:51.363+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:02:51.374+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:02:51.373+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:02:51.389+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:02:51.389+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:02:51.405+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.240 seconds
+[2025-02-28T23:03:45.575+0100] {processor.py:186} INFO - Started process (PID=7276) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:03:45.577+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:03:45.578+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:03:45.578+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:03:46.791+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:03:46.802+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:03:46.802+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:03:46.818+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:03:46.818+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:03:46.833+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.263 seconds
+[2025-02-28T23:04:41.578+0100] {processor.py:186} INFO - Started process (PID=7347) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:04:41.580+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:04:41.581+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:04:41.581+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:04:42.812+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:04:42.823+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:04:42.823+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:04:42.838+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:04:42.838+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:04:42.855+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.281 seconds
+[2025-02-28T23:05:40.504+0100] {processor.py:186} INFO - Started process (PID=7426) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:05:40.506+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:05:40.508+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:05:40.508+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:05:41.864+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:05:41.875+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:05:41.875+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:05:41.890+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:05:41.890+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:05:41.907+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.408 seconds
+[2025-02-28T23:06:38.638+0100] {processor.py:186} INFO - Started process (PID=7501) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:06:38.639+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:06:38.641+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:06:38.641+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:06:39.783+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:06:39.796+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:06:39.795+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:06:39.810+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:06:39.810+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:06:39.827+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.193 seconds
+[2025-02-28T23:07:31.272+0100] {processor.py:186} INFO - Started process (PID=7572) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:07:31.274+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:07:31.275+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:07:31.275+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:07:32.409+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:07:32.420+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:07:32.420+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:07:32.435+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:07:32.435+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:07:32.451+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.183 seconds
+[2025-02-28T23:08:26.777+0100] {processor.py:186} INFO - Started process (PID=7642) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:08:26.779+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:08:26.781+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:08:26.781+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:08:27.951+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:08:27.962+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:08:27.962+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:08:27.976+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:08:27.976+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:08:27.993+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.221 seconds
+[2025-02-28T23:09:19.910+0100] {processor.py:186} INFO - Started process (PID=7719) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:09:19.912+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:09:19.914+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:09:19.913+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:09:21.129+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:09:21.140+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:09:21.140+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:09:21.155+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:09:21.155+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:09:21.174+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.270 seconds
+[2025-02-28T23:10:18.792+0100] {processor.py:186} INFO - Started process (PID=7792) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:10:18.795+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:10:18.796+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:10:18.796+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:10:20.060+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:10:20.074+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:10:20.073+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:10:20.090+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:10:20.090+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:10:20.107+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.319 seconds
+[2025-02-28T23:11:13.649+0100] {processor.py:186} INFO - Started process (PID=7863) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:11:13.651+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:11:13.654+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:11:13.653+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:11:14.939+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:11:14.951+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:11:14.951+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:11:14.968+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:11:14.967+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:11:14.984+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.340 seconds
+[2025-02-28T23:12:10.957+0100] {processor.py:186} INFO - Started process (PID=7936) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:12:10.958+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:12:10.960+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:12:10.959+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:12:12.203+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:12:12.215+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:12:12.214+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:12:12.230+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:12:12.230+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:12:12.248+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.296 seconds
+[2025-02-28T23:13:07.583+0100] {processor.py:186} INFO - Started process (PID=8008) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:13:07.585+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:13:07.587+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:13:07.586+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:13:08.769+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:13:08.782+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:13:08.782+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:13:08.798+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:13:08.797+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:13:08.896+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.318 seconds
+[2025-02-28T23:14:01.480+0100] {processor.py:186} INFO - Started process (PID=8080) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:14:01.483+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:14:01.485+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:14:01.484+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:14:02.855+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:14:02.869+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:14:02.868+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:14:02.887+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:14:02.887+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:14:03.004+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.529 seconds
+[2025-02-28T23:14:58.907+0100] {processor.py:186} INFO - Started process (PID=8152) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:14:58.909+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:14:58.910+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:14:58.910+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:15:00.101+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:15:00.113+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:15:00.113+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:15:00.128+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:15:00.128+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:15:00.152+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.250 seconds
+[2025-02-28T23:15:55.876+0100] {processor.py:186} INFO - Started process (PID=8230) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:15:55.879+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:15:55.880+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:15:55.880+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:15:57.191+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:15:57.203+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:15:57.203+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:15:57.219+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:15:57.219+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:15:57.245+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.374 seconds
+[2025-02-28T23:16:49.328+0100] {processor.py:186} INFO - Started process (PID=8301) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:16:49.330+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:16:49.332+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:16:49.331+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:16:50.533+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:16:50.545+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:16:50.545+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:16:50.561+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:16:50.561+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:16:50.578+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.254 seconds
+[2025-02-28T23:17:42.079+0100] {processor.py:186} INFO - Started process (PID=8374) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:17:42.081+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:17:42.082+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:17:42.082+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:17:43.384+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:17:43.397+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:17:43.396+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:17:43.413+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:17:43.412+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:17:43.433+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.358 seconds
+[2025-02-28T23:18:35.893+0100] {processor.py:186} INFO - Started process (PID=8444) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:18:35.895+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:18:35.897+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:18:35.896+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:18:37.180+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:18:37.193+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:18:37.192+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:18:37.208+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:18:37.208+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:18:37.224+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.336 seconds
+[2025-02-28T23:19:31.402+0100] {processor.py:186} INFO - Started process (PID=8515) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:19:31.404+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:19:31.406+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:19:31.406+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:19:32.647+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:19:32.745+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:19:32.745+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:19:32.762+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:19:32.761+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:19:32.780+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.383 seconds
+[2025-02-28T23:20:27.020+0100] {processor.py:186} INFO - Started process (PID=8586) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:20:27.022+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:20:27.024+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:20:27.023+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:20:28.236+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:20:28.328+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:20:28.327+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:20:28.342+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:20:28.342+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:20:28.359+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.343 seconds
+[2025-02-28T23:21:25.431+0100] {processor.py:186} INFO - Started process (PID=8658) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:21:25.433+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:21:25.434+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:21:25.434+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:21:26.656+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:21:26.746+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:21:26.746+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:21:26.761+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:21:26.760+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:21:26.778+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.353 seconds
+[2025-02-28T23:22:21.888+0100] {processor.py:186} INFO - Started process (PID=8731) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:22:21.889+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:22:21.891+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:22:21.890+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:22:23.150+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:22:23.161+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:22:23.161+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:22:23.177+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:22:23.177+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:22:23.194+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.311 seconds
+[2025-02-28T23:23:15.412+0100] {processor.py:186} INFO - Started process (PID=8801) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:23:15.414+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:23:15.416+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:23:15.415+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:23:16.750+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:23:16.761+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:23:16.761+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:23:16.776+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:23:16.776+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:23:16.797+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.391 seconds
+[2025-02-28T23:24:10.548+0100] {processor.py:186} INFO - Started process (PID=8871) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:24:10.550+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:24:10.552+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:24:10.551+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:24:11.910+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:24:11.921+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:24:11.921+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:24:11.937+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:24:11.937+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:24:11.951+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.407 seconds
+[2025-02-28T23:25:10.251+0100] {processor.py:186} INFO - Started process (PID=8974) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:25:10.253+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:25:10.254+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:25:10.254+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:25:11.448+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:25:11.459+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:25:11.459+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:25:11.474+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:25:11.474+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:25:11.490+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.244 seconds
+[2025-02-28T23:26:09.361+0100] {processor.py:186} INFO - Started process (PID=9084) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:26:09.362+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:26:09.364+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:26:09.364+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:26:10.562+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:26:10.573+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:26:10.573+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:26:10.589+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:26:10.589+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:26:10.606+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.250 seconds
+[2025-02-28T23:27:08.795+0100] {processor.py:186} INFO - Started process (PID=9159) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:27:08.797+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:27:08.799+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:27:08.799+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:27:09.974+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:27:09.986+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:27:09.985+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:27:10.000+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:27:09.999+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:27:10.017+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.226 seconds
+[2025-02-28T23:28:06.961+0100] {processor.py:186} INFO - Started process (PID=9234) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:28:06.963+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:28:06.965+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:28:06.965+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:28:08.218+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:28:08.229+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:28:08.229+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:28:08.243+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:28:08.243+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:28:08.260+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.303 seconds
+[2025-02-28T23:29:02.244+0100] {processor.py:186} INFO - Started process (PID=9341) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:29:02.246+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:29:02.247+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:29:02.247+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:29:03.402+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:29:03.413+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:29:03.412+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:29:03.428+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:29:03.428+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:29:03.444+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.205 seconds
+[2025-02-28T23:29:56.266+0100] {processor.py:186} INFO - Started process (PID=9411) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:29:56.268+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:29:56.269+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:29:56.269+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:29:57.590+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:29:57.602+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:29:57.602+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:29:57.618+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:29:57.618+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:29:57.636+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.375 seconds
+[2025-02-28T23:30:51.323+0100] {processor.py:186} INFO - Started process (PID=9516) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:30:51.325+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:30:51.327+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:30:51.326+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:30:52.651+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:30:52.664+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:30:52.664+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:30:52.682+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:30:52.682+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:30:52.701+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.383 seconds
+[2025-02-28T23:31:48.681+0100] {processor.py:186} INFO - Started process (PID=9589) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:31:48.684+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:31:48.685+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:31:48.685+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:31:49.841+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:31:49.852+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:31:49.852+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:31:49.867+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:31:49.866+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:31:49.881+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.204 seconds
+[2025-02-28T23:32:44.130+0100] {processor.py:186} INFO - Started process (PID=9660) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:32:44.132+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:32:44.134+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:32:44.134+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:32:45.265+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:32:45.276+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:32:45.276+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:32:45.291+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:32:45.291+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:32:45.308+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.183 seconds
+[2025-02-28T23:33:37.099+0100] {processor.py:186} INFO - Started process (PID=9730) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:33:37.102+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:33:37.103+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:33:37.103+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:33:38.237+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:33:38.247+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:33:38.247+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:33:38.262+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:33:38.262+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:33:38.278+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.183 seconds
+[2025-02-28T23:34:31.108+0100] {processor.py:186} INFO - Started process (PID=9799) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:34:31.110+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:34:31.112+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:34:31.112+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:34:32.245+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:34:32.256+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:34:32.256+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:34:32.270+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:34:32.270+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:34:32.286+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.182 seconds
+[2025-02-28T23:35:27.784+0100] {processor.py:186} INFO - Started process (PID=9890) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:35:27.786+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:35:27.787+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:35:27.787+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:35:29.051+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:35:29.063+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:35:29.063+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:35:29.080+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:35:29.079+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:35:29.096+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.318 seconds
+[2025-02-28T23:36:22.523+0100] {processor.py:186} INFO - Started process (PID=9962) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:36:22.525+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:36:22.527+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:36:22.527+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:36:23.754+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:36:23.767+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:36:23.767+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:36:23.783+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:36:23.783+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:36:23.798+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.282 seconds
+[2025-02-28T23:37:17.499+0100] {processor.py:186} INFO - Started process (PID=10032) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:37:17.501+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:37:17.502+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:37:17.502+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:37:18.665+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:37:18.677+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:37:18.677+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:37:18.692+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:37:18.692+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:37:18.711+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.216 seconds
+[2025-02-28T23:38:12.826+0100] {processor.py:186} INFO - Started process (PID=10103) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:38:12.828+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:38:12.829+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:38:12.829+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:38:13.981+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:38:13.992+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:38:13.991+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:38:14.007+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:38:14.007+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:38:14.024+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.203 seconds
+[2025-02-28T23:39:05.348+0100] {processor.py:186} INFO - Started process (PID=10179) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:39:05.350+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:39:05.351+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:39:05.351+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:39:06.526+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:39:06.537+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:39:06.536+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:39:06.552+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:39:06.552+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:39:06.570+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.227 seconds
+[2025-02-28T23:39:23.533+0100] {processor.py:186} INFO - Started process (PID=10295) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:39:23.534+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:39:23.537+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:39:23.537+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:39:24.773+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:39:24.788+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:39:24.788+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:39:24.803+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:39:24.803+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:39:24.818+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.292 seconds
+[2025-02-28T23:40:47.305+0100] {processor.py:186} INFO - Started process (PID=10792) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:40:47.308+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:40:47.310+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:40:47.309+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:40:48.601+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:40:48.612+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:40:48.612+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:40:48.628+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:40:48.628+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:40:48.643+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.343 seconds
+[2025-02-28T23:41:29.132+0100] {processor.py:186} INFO - Started process (PID=10868) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:41:29.134+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:41:29.136+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:41:29.135+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:41:30.448+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:41:30.459+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:41:30.459+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:41:30.475+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:41:30.475+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:41:30.491+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.364 seconds
+[2025-02-28T23:42:26.966+0100] {processor.py:186} INFO - Started process (PID=11046) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:42:26.968+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:42:26.969+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:42:26.969+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:42:28.104+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:42:28.115+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:42:28.115+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:42:28.130+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:42:28.130+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:42:28.147+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.186 seconds
+[2025-02-28T23:43:20.519+0100] {processor.py:186} INFO - Started process (PID=11188) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:43:20.522+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:43:20.523+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:43:20.523+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:43:21.630+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:43:21.642+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:43:21.642+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:43:21.657+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:43:21.657+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:43:21.674+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.159 seconds
+[2025-02-28T23:44:13.108+0100] {processor.py:186} INFO - Started process (PID=11290) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:44:13.109+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:44:13.111+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:44:13.111+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:44:14.233+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:44:14.244+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:44:14.244+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:44:14.259+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:44:14.259+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:44:14.275+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.171 seconds
+[2025-02-28T23:45:08.967+0100] {processor.py:186} INFO - Started process (PID=11381) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:45:08.969+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:45:08.971+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:45:08.971+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:45:10.277+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:45:10.288+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:45:10.288+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:45:10.303+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:45:10.303+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:45:10.319+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.359 seconds
+[2025-02-28T23:46:03.934+0100] {processor.py:186} INFO - Started process (PID=11472) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:46:03.936+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:46:03.937+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:46:03.937+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:46:05.048+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:46:05.059+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:46:05.059+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:46:05.074+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:46:05.074+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:46:05.089+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.160 seconds
+[2025-02-28T23:46:59.921+0100] {processor.py:186} INFO - Started process (PID=11566) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:46:59.923+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:46:59.925+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:46:59.925+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:47:01.301+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:47:01.312+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:47:01.312+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:47:01.328+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:47:01.328+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:47:01.343+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.428 seconds
+[2025-02-28T23:47:55.326+0100] {processor.py:186} INFO - Started process (PID=11691) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:47:55.329+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:47:55.330+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:47:55.330+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:47:56.509+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:47:56.520+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:47:56.520+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:47:56.536+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:47:56.536+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:47:56.553+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.230 seconds
+[2025-02-28T23:48:49.333+0100] {processor.py:186} INFO - Started process (PID=11776) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:48:49.334+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:48:49.336+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:48:49.336+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:48:50.588+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:48:50.600+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:48:50.600+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:48:50.617+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:48:50.616+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:48:50.635+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.307 seconds
+[2025-02-28T23:49:47.609+0100] {processor.py:186} INFO - Started process (PID=11855) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:49:47.612+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:49:47.619+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:49:47.618+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:49:48.834+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:49:48.846+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:49:48.845+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:49:48.861+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:49:48.861+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:49:48.876+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.272 seconds
+[2025-02-28T23:50:51.447+0100] {processor.py:186} INFO - Started process (PID=12031) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:50:51.448+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:50:51.450+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:50:51.449+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:50:52.572+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:50:52.586+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:50:52.586+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:50:52.601+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:50:52.601+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:50:52.616+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.173 seconds
+[2025-02-28T23:52:14.415+0100] {processor.py:186} INFO - Started process (PID=12452) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:52:14.417+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:52:14.419+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:52:14.419+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:52:15.707+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:52:15.718+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:52:15.718+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:52:15.736+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:52:15.736+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:52:15.752+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.342 seconds
+[2025-02-28T23:53:09.950+0100] {processor.py:186} INFO - Started process (PID=12544) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:53:09.953+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:53:09.954+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:53:09.954+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:53:11.137+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:53:11.152+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:53:11.151+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:53:11.168+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:53:11.168+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:53:11.187+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.241 seconds
+[2025-02-28T23:54:02.603+0100] {processor.py:186} INFO - Started process (PID=12613) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:54:02.605+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:54:02.606+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:54:02.606+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:54:03.844+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:54:03.856+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:54:03.856+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:54:03.871+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:54:03.871+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:54:03.888+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.290 seconds
+[2025-02-28T23:54:59.069+0100] {processor.py:186} INFO - Started process (PID=12693) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:54:59.071+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:54:59.072+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:54:59.072+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:55:00.257+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:55:00.269+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:55:00.268+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:55:00.283+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:55:00.283+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:55:00.301+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.235 seconds
+[2025-02-28T23:55:52.073+0100] {processor.py:186} INFO - Started process (PID=12764) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:55:52.075+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:55:52.077+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:55:52.076+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:55:53.335+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:55:53.346+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:55:53.345+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:55:53.362+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:55:53.362+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:55:53.378+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.310 seconds
+[2025-02-28T23:56:46.855+0100] {processor.py:186} INFO - Started process (PID=12838) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:56:46.858+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:56:46.859+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:56:46.859+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:56:48.027+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:56:48.040+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:56:48.040+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:56:48.055+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:56:48.055+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:56:48.070+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.220 seconds
+[2025-02-28T23:57:41.476+0100] {processor.py:186} INFO - Started process (PID=12908) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:57:41.478+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:57:41.480+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:57:41.480+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:57:42.655+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:57:42.666+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:57:42.666+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:57:42.682+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:57:42.682+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:57:42.699+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.227 seconds
+[2025-02-28T23:58:39.977+0100] {processor.py:186} INFO - Started process (PID=13006) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:58:39.979+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:58:39.981+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:58:39.981+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:58:41.317+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:58:41.330+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:58:41.330+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:58:41.347+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:58:41.347+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:58:41.365+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.392 seconds
+[2025-02-28T23:59:32.974+0100] {processor.py:186} INFO - Started process (PID=13103) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:59:32.976+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-02-28T23:59:32.978+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:59:32.978+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:59:34.205+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-02-28T23:59:34.217+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:59:34.216+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-28T23:59:34.232+0100] {logging_mixin.py:190} INFO - [2025-02-28T23:59:34.231+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-02-28T23:59:34.249+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.281 seconds
+[2025-03-01T00:00:26.633+0100] {processor.py:186} INFO - Started process (PID=13198) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:00:26.635+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:00:26.638+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:00:26.638+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:00:27.883+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:00:27.896+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:00:27.896+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:00:27.912+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:00:27.912+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:00:27.927+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.299 seconds
+[2025-03-01T00:01:21.503+0100] {processor.py:186} INFO - Started process (PID=13268) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:01:21.506+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:01:21.507+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:01:21.507+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:01:22.752+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:01:22.765+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:01:22.765+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:01:22.782+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:01:22.782+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:01:22.798+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.299 seconds
+[2025-03-01T00:02:20.505+0100] {processor.py:186} INFO - Started process (PID=13341) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:02:20.506+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:02:20.510+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:02:20.509+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:02:21.916+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:02:21.929+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:02:21.928+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:02:21.946+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:02:21.945+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:02:21.964+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.470 seconds
+[2025-03-01T00:03:15.675+0100] {processor.py:186} INFO - Started process (PID=13417) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:03:15.676+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:03:15.678+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:03:15.678+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:03:17.007+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:03:17.023+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:03:17.023+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:03:17.041+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:03:17.041+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:03:17.057+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.387 seconds
+[2025-03-01T00:04:10.306+0100] {processor.py:186} INFO - Started process (PID=13488) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:04:10.309+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:04:10.310+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:04:10.310+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:04:11.561+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:04:11.573+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:04:11.573+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:04:11.594+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:04:11.594+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:04:11.615+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.313 seconds
+[2025-03-01T00:05:03.969+0100] {processor.py:186} INFO - Started process (PID=13557) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:05:03.971+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:05:03.973+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:05:03.973+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:05:05.199+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:05:05.212+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:05:05.212+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:05:05.227+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:05:05.227+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:05:05.246+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.281 seconds
+[2025-03-01T00:06:02.713+0100] {processor.py:186} INFO - Started process (PID=13632) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:06:02.715+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:06:02.717+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:06:02.717+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:06:03.954+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:06:03.967+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:06:03.967+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:06:03.982+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:06:03.982+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:06:03.999+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.290 seconds
+[2025-03-01T00:06:59.319+0100] {processor.py:186} INFO - Started process (PID=13704) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:06:59.322+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:06:59.323+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:06:59.323+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:07:00.532+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:07:00.544+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:07:00.544+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:07:00.563+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:07:00.563+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:07:00.584+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.269 seconds
+[2025-03-01T00:07:58.687+0100] {processor.py:186} INFO - Started process (PID=13777) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:07:58.690+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:07:58.691+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:07:58.691+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:07:59.864+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:07:59.876+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:07:59.875+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:07:59.891+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:07:59.891+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:07:59.908+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.225 seconds
+[2025-03-01T00:08:54.697+0100] {processor.py:186} INFO - Started process (PID=13866) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:08:54.699+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:08:54.701+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:08:54.700+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:08:55.987+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:08:55.999+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:08:55.998+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:08:56.014+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:08:56.014+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:08:56.031+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.339 seconds
+[2025-03-01T00:09:46.247+0100] {processor.py:186} INFO - Started process (PID=14005) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:09:46.249+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:09:46.251+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:09:46.250+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:09:47.473+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:09:47.485+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:09:47.485+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:09:47.500+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:09:47.500+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:09:47.516+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.274 seconds
+[2025-03-01T00:10:06.376+0100] {processor.py:186} INFO - Started process (PID=14092) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:10:06.377+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:10:06.379+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:10:06.379+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:10:07.629+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:10:07.647+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:10:07.647+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:10:07.666+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:10:07.666+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:10:07.682+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.312 seconds
+[2025-03-01T00:11:34.806+0100] {processor.py:186} INFO - Started process (PID=14560) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:11:34.807+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:11:34.809+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:11:34.808+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:11:36.060+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:11:36.072+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:11:36.072+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:11:36.088+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:11:36.088+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:11:36.104+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.303 seconds
+[2025-03-01T00:11:56.131+0100] {processor.py:186} INFO - Started process (PID=14658) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:11:56.132+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:11:56.134+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:11:56.133+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:11:57.332+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:11:57.350+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:11:57.349+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:11:57.367+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:11:57.367+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:11:57.383+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.256 seconds
+[2025-03-01T00:12:53.797+0100] {processor.py:186} INFO - Started process (PID=14775) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:12:53.799+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:12:53.801+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:12:53.800+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:12:54.996+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:12:55.010+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:12:55.009+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:12:55.026+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:12:55.025+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:12:55.043+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.250 seconds
+[2025-03-01T00:13:49.298+0100] {processor.py:186} INFO - Started process (PID=14848) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:13:49.299+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:13:49.301+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:13:49.300+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:13:50.820+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:13:50.834+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:13:50.834+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:13:50.854+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:13:50.854+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:13:50.874+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.581 seconds
+[2025-03-01T00:14:42.205+0100] {processor.py:186} INFO - Started process (PID=14918) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:14:42.207+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:14:42.209+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:14:42.208+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:14:43.617+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:14:43.630+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:14:43.629+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:14:43.646+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:14:43.646+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:14:43.663+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.464 seconds
+[2025-03-01T00:15:37.353+0100] {processor.py:186} INFO - Started process (PID=14989) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:15:37.355+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:15:37.357+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:15:37.357+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:15:38.645+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:15:38.658+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:15:38.658+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:15:38.675+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:15:38.675+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:15:38.692+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.344 seconds
+[2025-03-01T00:16:29.504+0100] {processor.py:186} INFO - Started process (PID=15097) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:16:29.505+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:16:29.506+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:16:29.506+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:16:30.800+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:16:30.814+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:16:30.813+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:16:30.830+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:16:30.830+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:16:30.847+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.347 seconds
+[2025-03-01T00:17:27.681+0100] {processor.py:186} INFO - Started process (PID=15173) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:17:27.684+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:17:27.686+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:17:27.685+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:17:28.987+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:17:28.998+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:17:28.998+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:17:29.015+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:17:29.014+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:17:29.031+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.356 seconds
+[2025-03-01T00:18:23.279+0100] {processor.py:186} INFO - Started process (PID=15245) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:18:23.282+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:18:23.284+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:18:23.284+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:18:24.613+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:18:24.627+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:18:24.626+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:18:24.646+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:18:24.645+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:18:24.673+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.399 seconds
+[2025-03-01T00:19:18.509+0100] {processor.py:186} INFO - Started process (PID=15315) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:19:18.511+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:19:18.513+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:19:18.512+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:19:19.792+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:19:19.804+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:19:19.804+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:19:19.821+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:19:19.821+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:19:19.837+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.332 seconds
+[2025-03-01T00:20:14.832+0100] {processor.py:186} INFO - Started process (PID=15390) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:20:14.834+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:20:14.837+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:20:14.836+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:20:16.164+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:20:16.176+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:20:16.176+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:20:16.194+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:20:16.194+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:20:16.210+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.382 seconds
+[2025-03-01T00:21:12.313+0100] {processor.py:186} INFO - Started process (PID=15496) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:21:12.316+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:21:12.318+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:21:12.318+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:21:13.610+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:21:13.623+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:21:13.623+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:21:13.639+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:21:13.639+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:21:13.659+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.351 seconds
+[2025-03-01T00:22:09.947+0100] {processor.py:186} INFO - Started process (PID=15572) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:22:09.950+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:22:09.951+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:22:09.951+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:22:11.188+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:22:11.201+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:22:11.200+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:22:11.217+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:22:11.217+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:22:11.235+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.292 seconds
+[2025-03-01T00:23:04.591+0100] {processor.py:186} INFO - Started process (PID=15643) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:23:04.593+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:23:04.595+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:23:04.594+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:23:05.992+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:23:06.004+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:23:06.004+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:23:06.020+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:23:06.020+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:23:06.038+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.454 seconds
+[2025-03-01T00:23:57.633+0100] {processor.py:186} INFO - Started process (PID=15757) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:23:57.634+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:23:57.636+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:23:57.636+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:23:58.953+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:23:58.976+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:23:58.976+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:23:59.002+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:23:59.002+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:23:59.025+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.398 seconds
+[2025-03-01T00:25:26.293+0100] {processor.py:186} INFO - Started process (PID=16254) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:25:26.295+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:25:26.297+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:25:26.297+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:25:27.541+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:25:27.552+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:25:27.552+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:25:27.568+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:25:27.568+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:25:27.585+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.296 seconds
+[2025-03-01T00:26:19.962+0100] {processor.py:186} INFO - Started process (PID=16329) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:26:19.965+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:26:19.966+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:26:19.966+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:26:21.247+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:26:21.261+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:26:21.261+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:26:21.279+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:26:21.279+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:26:21.295+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.338 seconds
+[2025-03-01T00:27:16.539+0100] {processor.py:186} INFO - Started process (PID=16409) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:27:16.541+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:27:16.543+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:27:16.543+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:27:17.809+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:27:17.820+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:27:17.820+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:27:17.837+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:27:17.836+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:27:17.853+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.319 seconds
+[2025-03-01T00:28:09.644+0100] {processor.py:186} INFO - Started process (PID=16486) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:28:09.646+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:28:09.647+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:28:09.647+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:28:10.927+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:28:10.939+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:28:10.938+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:28:10.955+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:28:10.955+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:28:10.970+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.331 seconds
+[2025-03-01T00:29:04.467+0100] {processor.py:186} INFO - Started process (PID=16564) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:29:04.468+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:29:04.470+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:29:04.470+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:29:05.732+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:29:05.743+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:29:05.743+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:29:05.759+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:29:05.759+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:29:05.779+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.316 seconds
+[2025-03-01T00:29:59.071+0100] {processor.py:186} INFO - Started process (PID=16640) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:29:59.073+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:29:59.075+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:29:59.075+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:30:00.369+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:30:00.381+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:30:00.381+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:30:00.401+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:30:00.401+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:30:00.423+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.357 seconds
+[2025-03-01T00:30:52.155+0100] {processor.py:186} INFO - Started process (PID=16714) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:30:52.157+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:30:52.159+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:30:52.158+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:30:53.373+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:30:53.384+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:30:53.384+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:30:53.400+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:30:53.400+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:30:53.416+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.265 seconds
+[2025-03-01T00:31:46.223+0100] {processor.py:186} INFO - Started process (PID=16868) to work on /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:31:46.224+0100] {processor.py:914} INFO - Processing file /home/erij/airflow/dags/ml_project_dag.py for tasks to queue
+[2025-03-01T00:31:46.226+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:31:46.225+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:31:47.635+0100] {processor.py:925} INFO - DAG(s) 'ml_project_dag' retrieved from /home/erij/airflow/dags/ml_project_dag.py
+[2025-03-01T00:31:47.646+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:31:47.646+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-01T00:31:47.661+0100] {logging_mixin.py:190} INFO - [2025-03-01T00:31:47.661+0100] {dag.py:4180} INFO - Setting next_dagrun for ml_project_dag to 2025-02-28 00:00:00+00:00, run_after=2025-03-01 00:00:00+00:00
+[2025-03-01T00:31:47.679+0100] {processor.py:208} INFO - Processing /home/erij/airflow/dags/ml_project_dag.py took 1.462 seconds

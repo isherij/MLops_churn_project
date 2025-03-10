@@ -1,0 +1,41 @@
+[2025-03-06T23:38:59.660+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-06T23:38:59.673+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ml_project_dag.make_predictions scheduled__2025-03-05T00:00:00+00:00 [queued]>
+[2025-03-06T23:38:59.683+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ml_project_dag.make_predictions scheduled__2025-03-05T00:00:00+00:00 [queued]>
+[2025-03-06T23:38:59.683+0100] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-03-06T23:38:59.699+0100] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): make_predictions> on 2025-03-05 00:00:00+00:00
+[2025-03-06T23:38:59.706+0100] {standard_task_runner.py:72} INFO - Started process 55846 to run task
+[2025-03-06T23:38:59.712+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ml_project_dag', 'make_predictions', 'scheduled__2025-03-05T00:00:00+00:00', '--job-id', '127', '--raw', '--subdir', 'DAGS_FOLDER/ml_project_dag.py', '--cfg-path', '/tmp/tmpf73xjfxo']
+[2025-03-06T23:38:59.712+0100] {standard_task_runner.py:105} INFO - Job 127: Subtask make_predictions
+[2025-03-06T23:38:59.763+0100] {task_command.py:467} INFO - Running <TaskInstance: ml_project_dag.make_predictions scheduled__2025-03-05T00:00:00+00:00 [running]> on host LAPTOP-M4D67JM4.
+[2025-03-06T23:38:59.830+0100] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ml_project_dag' AIRFLOW_CTX_TASK_ID='make_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-03-05T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-03-05T00:00:00+00:00'
+[2025-03-06T23:38:59.831+0100] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-06T23:38:59.831+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-06T23:38:59.832+0100] {logging_mixin.py:190} INFO - Current task name:make_predictions state:running start_date:2025-03-06 22:38:59.674247+00:00
+[2025-03-06T23:38:59.832+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag and current dag run status:running
+[2025-03-06T23:38:59.832+0100] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-06T23:38:59.989+0100] {logging_mixin.py:190} INFO - Prediction function called!
+[2025-03-06T23:38:59.994+0100] {logging_mixin.py:190} INFO - Prediction result: 0
+[2025-03-06T23:38:59.996+0100] {logging_mixin.py:190} INFO - Predictions: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 1 0 0 0 0 0 1 1 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0
+ 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0
+ 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+ 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0
+ 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1
+ 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+ 1 0 0 0 0 1 0 0 0 0]
+[2025-03-06T23:38:59.996+0100] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-06T23:39:00.000+0100] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-06T23:39:00.000+0100] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ml_project_dag, task_id=make_predictions, run_id=scheduled__2025-03-05T00:00:00+00:00, execution_date=20250305T000000, start_date=20250306T223859, end_date=20250306T223900
+[2025-03-06T23:39:00.017+0100] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-03-06T23:39:00.017+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-03-06T23:39:00.017+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag queued_at:2025-03-06 22:38:23.714439+00:00
+[2025-03-06T23:39:00.017+0100] {logging_mixin.py:190} INFO - Task hostname:LAPTOP-M4D67JM4. operator:PythonOperator
+[2025-03-06T23:39:00.047+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-06T23:39:00.060+0100] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-03-06T23:39:00.066+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

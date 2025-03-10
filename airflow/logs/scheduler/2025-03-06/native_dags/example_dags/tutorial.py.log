@@ -1,0 +1,182 @@
+[2025-03-06T23:39:25.433+0100] {processor.py:186} INFO - Started process (PID=55943) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:39:25.434+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:39:25.436+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:39:25.435+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:39:25.443+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:39:25.455+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:39:25.454+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:39:25.470+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:39:25.470+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:39:25.488+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2025-03-06T23:40:52.663+0100] {processor.py:186} INFO - Started process (PID=56522) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:40:52.665+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:40:52.667+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:40:52.667+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:40:52.673+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:40:52.685+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:40:52.685+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:40:52.701+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:40:52.701+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:40:52.718+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2025-03-06T23:41:49.640+0100] {processor.py:186} INFO - Started process (PID=56659) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:41:49.643+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:41:49.645+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:41:49.645+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:41:49.653+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:41:49.666+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:41:49.666+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:41:49.684+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:41:49.684+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:41:49.702+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2025-03-06T23:42:44.633+0100] {processor.py:186} INFO - Started process (PID=56784) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:42:44.635+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:42:44.637+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:42:44.637+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:42:44.644+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:42:44.656+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:42:44.656+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:42:44.672+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:42:44.672+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:42:44.689+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2025-03-06T23:43:37.275+0100] {processor.py:186} INFO - Started process (PID=56904) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:43:37.277+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:43:37.280+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:43:37.280+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:43:37.288+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:43:37.300+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:43:37.300+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:43:37.319+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:43:37.318+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:43:37.338+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2025-03-06T23:44:28.808+0100] {processor.py:186} INFO - Started process (PID=57056) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:44:28.810+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:44:28.812+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:44:28.811+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:44:28.819+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:44:28.831+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:44:28.831+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:44:28.849+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:44:28.848+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:44:28.875+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2025-03-06T23:45:24.825+0100] {processor.py:186} INFO - Started process (PID=57178) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:45:24.836+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:45:24.839+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:45:24.838+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:45:24.845+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:45:24.855+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:45:24.855+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:45:24.870+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:45:24.870+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:45:24.896+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2025-03-06T23:46:23.320+0100] {processor.py:186} INFO - Started process (PID=57291) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:46:23.322+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:46:23.324+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:46:23.323+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:46:23.331+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:46:23.343+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:46:23.343+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:46:23.360+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:46:23.360+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:46:23.378+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2025-03-06T23:47:19.237+0100] {processor.py:186} INFO - Started process (PID=57407) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:47:19.240+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:47:19.242+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:47:19.241+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:47:19.250+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:47:19.264+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:47:19.264+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:47:19.283+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:47:19.282+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:47:19.301+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2025-03-06T23:48:17.555+0100] {processor.py:186} INFO - Started process (PID=57527) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:48:17.557+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:48:17.559+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:48:17.559+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:48:17.565+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:48:17.577+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:48:17.577+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:48:17.593+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:48:17.592+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:48:17.609+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.059 seconds
+[2025-03-06T23:49:13.898+0100] {processor.py:186} INFO - Started process (PID=57637) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:49:13.901+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:49:13.902+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:49:13.902+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:49:13.909+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:49:13.922+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:49:13.921+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:49:13.938+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:49:13.937+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:49:13.956+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2025-03-06T23:50:07.859+0100] {processor.py:186} INFO - Started process (PID=57751) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:50:07.860+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:50:07.862+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:50:07.862+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:50:07.870+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:50:07.883+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:50:07.883+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:50:07.902+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:50:07.902+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:50:07.919+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2025-03-06T23:51:04.303+0100] {processor.py:186} INFO - Started process (PID=57858) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:51:04.305+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:51:04.307+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:51:04.307+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:51:04.314+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:51:04.326+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:51:04.326+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:51:04.343+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:51:04.343+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:51:04.360+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2025-03-06T23:51:59.167+0100] {processor.py:186} INFO - Started process (PID=57974) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:51:59.169+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:51:59.171+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:51:59.171+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:51:59.177+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:51:59.188+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:51:59.188+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:51:59.202+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:51:59.202+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:51:59.219+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-06T23:52:55.617+0100] {processor.py:186} INFO - Started process (PID=58094) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:52:55.619+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:52:55.621+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:52:55.620+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:52:55.627+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:52:55.638+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:52:55.638+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:52:55.653+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:52:55.653+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:52:55.670+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-06T23:53:51.759+0100] {processor.py:186} INFO - Started process (PID=58216) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:53:51.760+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:53:51.762+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:53:51.762+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:53:51.769+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:53:51.782+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:53:51.782+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:53:51.799+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:53:51.799+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:53:51.816+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2025-03-06T23:54:50.016+0100] {processor.py:186} INFO - Started process (PID=58592) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:54:50.018+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:54:50.020+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:54:50.020+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:54:50.027+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:54:50.038+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:54:50.038+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:54:50.054+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:54:50.053+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:54:50.071+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2025-03-06T23:55:47.378+0100] {processor.py:186} INFO - Started process (PID=59154) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:55:47.380+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:55:47.382+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:55:47.382+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:55:47.390+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:55:47.404+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:55:47.403+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:55:47.421+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:55:47.421+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:55:47.437+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2025-03-06T23:56:44.053+0100] {processor.py:186} INFO - Started process (PID=59276) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:56:44.055+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:56:44.057+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:56:44.057+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:56:44.063+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:56:44.075+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:56:44.074+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:56:44.090+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:56:44.090+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:56:44.106+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-06T23:57:38.169+0100] {processor.py:186} INFO - Started process (PID=59409) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:57:38.171+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:57:38.173+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:57:38.173+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:57:38.179+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:57:38.191+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:57:38.191+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:57:38.207+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:57:38.207+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:57:38.223+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-06T23:58:32.561+0100] {processor.py:186} INFO - Started process (PID=59550) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:58:32.563+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:58:32.565+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:58:32.565+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:58:32.572+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:58:32.585+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:58:32.585+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:58:32.602+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:58:32.602+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:58:32.622+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2025-03-06T23:59:22.906+0100] {processor.py:186} INFO - Started process (PID=59693) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:59:22.908+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-06T23:59:22.910+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:59:22.909+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:59:22.916+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-06T23:59:22.928+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:59:22.928+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T23:59:22.945+0100] {logging_mixin.py:190} INFO - [2025-03-06T23:59:22.944+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-06T23:59:22.963+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2025-03-07T00:00:15.528+0100] {processor.py:186} INFO - Started process (PID=59879) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:00:15.530+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-07T00:00:15.532+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:00:15.531+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:00:15.539+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:00:15.550+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:00:15.550+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-07T00:00:15.570+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:00:15.570+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-07T00:00:15.588+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2025-03-07T00:01:08.473+0100] {processor.py:186} INFO - Started process (PID=60067) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:01:08.475+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-07T00:01:08.478+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:01:08.477+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:01:08.484+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:01:08.496+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:01:08.495+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-07T00:01:08.514+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:01:08.514+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-07T00:01:08.535+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2025-03-07T00:02:02.783+0100] {processor.py:186} INFO - Started process (PID=60223) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:02:02.784+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-07T00:02:02.786+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:02:02.786+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:02:02.793+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:02:02.806+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:02:02.806+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-07T00:02:02.823+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:02:02.823+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-07T00:02:02.839+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2025-03-07T00:03:01.298+0100] {processor.py:186} INFO - Started process (PID=60439) to work on /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:03:01.299+0100] {processor.py:914} INFO - Processing file /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-07T00:03:01.301+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:03:01.301+0100] {dagbag.py:588} INFO - Filling up the DagBag from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:03:01.309+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-03-07T00:03:01.323+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:03:01.323+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-07T00:03:01.342+0100] {logging_mixin.py:190} INFO - [2025-03-07T00:03:01.342+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-05 00:00:00+00:00, run_after=2025-03-06 00:00:00+00:00
+[2025-03-07T00:03:01.361+0100] {processor.py:208} INFO - Processing /home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds

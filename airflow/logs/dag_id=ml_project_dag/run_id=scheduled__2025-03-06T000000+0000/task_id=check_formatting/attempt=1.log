@@ -1,0 +1,25 @@
+[2025-03-07T10:19:21.569+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-07T10:19:21.575+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ml_project_dag.check_formatting scheduled__2025-03-06T00:00:00+00:00 [queued]>
+[2025-03-07T10:19:21.579+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ml_project_dag.check_formatting scheduled__2025-03-06T00:00:00+00:00 [queued]>
+[2025-03-07T10:19:21.579+0100] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-03-07T10:19:21.594+0100] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): check_formatting> on 2025-03-06 00:00:00+00:00
+[2025-03-07T10:19:21.600+0100] {standard_task_runner.py:72} INFO - Started process 5337 to run task
+[2025-03-07T10:19:21.605+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ml_project_dag', 'check_formatting', 'scheduled__2025-03-06T00:00:00+00:00', '--job-id', '138', '--raw', '--subdir', 'DAGS_FOLDER/ml_project_dag.py', '--cfg-path', '/tmp/tmpydozc6bx']
+[2025-03-07T10:19:21.605+0100] {standard_task_runner.py:105} INFO - Job 138: Subtask check_formatting
+[2025-03-07T10:19:21.641+0100] {task_command.py:467} INFO - Running <TaskInstance: ml_project_dag.check_formatting scheduled__2025-03-06T00:00:00+00:00 [running]> on host LAPTOP-M4D67JM4.
+[2025-03-07T10:19:21.692+0100] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ml_project_dag' AIRFLOW_CTX_TASK_ID='check_formatting' AIRFLOW_CTX_EXECUTION_DATE='2025-03-06T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-03-06T00:00:00+00:00'
+[2025-03-07T10:19:21.693+0100] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-07T10:19:21.694+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-07T10:19:21.694+0100] {logging_mixin.py:190} INFO - Current task name:check_formatting state:running start_date:2025-03-07 09:19:21.576099+00:00
+[2025-03-07T10:19:21.694+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag and current dag run status:running
+[2025-03-07T10:19:21.694+0100] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-07T10:19:22.161+0100] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-07T10:19:22.167+0100] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-07T10:19:22.167+0100] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ml_project_dag, task_id=check_formatting, run_id=scheduled__2025-03-06T00:00:00+00:00, execution_date=20250306T000000, start_date=20250307T091921, end_date=20250307T091922
+[2025-03-07T10:19:22.184+0100] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-03-07T10:19:22.185+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-03-07T10:19:22.185+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag queued_at:2025-03-07 09:19:18.019486+00:00
+[2025-03-07T10:19:22.185+0100] {logging_mixin.py:190} INFO - Task hostname:LAPTOP-M4D67JM4. operator:PythonOperator
+[2025-03-07T10:19:22.219+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-07T10:19:22.234+0100] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-03-07T10:19:22.239+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

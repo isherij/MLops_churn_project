@@ -1,0 +1,17 @@
+2025-02-27 10:30:26,996 INFO - Loaded executor: SequentialExecutor
+2025-02-27 10:30:27,041 INFO - Starting the scheduler
+2025-02-27 10:30:27,041 INFO - Processing each file at most -1 times
+2025-02-27 10:30:27,049 INFO - Launched DagFileProcessorManager with pid: 17074
+2025-02-27 10:30:27,051 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 10:30:27,055 INFO - Configured default timezone UTC
+2025-02-27 10:30:27,062 INFO - Marked 1 SchedulerJob instances as failed
+2025-02-27 10:38:43,632 INFO - Heartbeat recovered after 260.25 seconds
+2025-02-27 10:39:44,028 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 10:44:44,161 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 11:40:02,928 INFO - Heartbeat recovered after 3183.05 seconds
+2025-02-27 11:42:43,809 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 11:47:44,042 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 11:52:44,183 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 11:57:44,326 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 12:02:44,462 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-02-27 12:02:44,465 INFO - Marked 1 SchedulerJob instances as failed

@@ -1,0 +1,26 @@
+[2025-02-28T23:40:15.836+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-02-28T23:40:15.844+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ml_project_dag.prepare_data manual__2025-02-28T22:40:00.629698+00:00 [queued]>
+[2025-02-28T23:40:15.849+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ml_project_dag.prepare_data manual__2025-02-28T22:40:00.629698+00:00 [queued]>
+[2025-02-28T23:40:15.849+0100] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-02-28T23:40:15.861+0100] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): prepare_data> on 2025-02-28 22:40:00.629698+00:00
+[2025-02-28T23:40:15.866+0100] {standard_task_runner.py:72} INFO - Started process 10576 to run task
+[2025-02-28T23:40:15.869+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ml_project_dag', 'prepare_data', 'manual__2025-02-28T22:40:00.629698+00:00', '--job-id', '86', '--raw', '--subdir', 'DAGS_FOLDER/ml_project_dag.py', '--cfg-path', '/tmp/tmpt91bsrul']
+[2025-02-28T23:40:15.870+0100] {standard_task_runner.py:105} INFO - Job 86: Subtask prepare_data
+[2025-02-28T23:40:15.905+0100] {task_command.py:467} INFO - Running <TaskInstance: ml_project_dag.prepare_data manual__2025-02-28T22:40:00.629698+00:00 [running]> on host LAPTOP-M4D67JM4.
+[2025-02-28T23:40:15.959+0100] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ml_project_dag' AIRFLOW_CTX_TASK_ID='prepare_data' AIRFLOW_CTX_EXECUTION_DATE='2025-02-28T22:40:00.629698+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-02-28T22:40:00.629698+00:00'
+[2025-02-28T23:40:15.960+0100] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-02-28T23:40:15.960+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-02-28T23:40:15.960+0100] {logging_mixin.py:190} INFO - Current task name:prepare_data state:running start_date:2025-02-28 22:40:15.844993+00:00
+[2025-02-28T23:40:15.960+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag and current dag run status:running
+[2025-02-28T23:40:15.960+0100] {taskinstance.py:732} INFO - ::endgroup::
+[2025-02-28T23:40:16.096+0100] {logging_mixin.py:190} INFO - Training data: 2530 samples, Test data: 491 samples
+[2025-02-28T23:40:16.096+0100] {python.py:240} INFO - Done. Returned value was: None
+[2025-02-28T23:40:16.099+0100] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-02-28T23:40:16.100+0100] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ml_project_dag, task_id=prepare_data, run_id=manual__2025-02-28T22:40:00.629698+00:00, execution_date=20250228T224000, start_date=20250228T224015, end_date=20250228T224016
+[2025-02-28T23:40:16.115+0100] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-02-28T23:40:16.116+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-02-28T23:40:16.116+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag queued_at:2025-02-28 22:40:00.640265+00:00
+[2025-02-28T23:40:16.116+0100] {logging_mixin.py:190} INFO - Task hostname:LAPTOP-M4D67JM4. operator:PythonOperator
+[2025-02-28T23:40:16.124+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-02-28T23:40:16.136+0100] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-02-28T23:40:16.142+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,26 @@
+[2025-02-27T14:50:55.453+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-02-27T14:50:55.463+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ml_project_dag.save_model scheduled__2025-02-26T00:00:00+00:00 [queued]>
+[2025-02-27T14:50:55.468+0100] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ml_project_dag.save_model scheduled__2025-02-26T00:00:00+00:00 [queued]>
+[2025-02-27T14:50:55.468+0100] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-02-27T14:50:55.480+0100] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): save_model> on 2025-02-26 00:00:00+00:00
+[2025-02-27T14:50:55.485+0100] {standard_task_runner.py:72} INFO - Started process 4004 to run task
+[2025-02-27T14:50:55.488+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ml_project_dag', 'save_model', 'scheduled__2025-02-26T00:00:00+00:00', '--job-id', '24', '--raw', '--subdir', 'DAGS_FOLDER/ml_project_dag.py', '--cfg-path', '/tmp/tmpom3ggtnk']
+[2025-02-27T14:50:55.489+0100] {standard_task_runner.py:105} INFO - Job 24: Subtask save_model
+[2025-02-27T14:50:55.525+0100] {task_command.py:467} INFO - Running <TaskInstance: ml_project_dag.save_model scheduled__2025-02-26T00:00:00+00:00 [running]> on host LAPTOP-M4D67JM4.
+[2025-02-27T14:50:55.572+0100] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ml_project_dag' AIRFLOW_CTX_TASK_ID='save_model' AIRFLOW_CTX_EXECUTION_DATE='2025-02-26T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-02-26T00:00:00+00:00'
+[2025-02-27T14:50:55.573+0100] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-02-27T14:50:55.573+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-02-27T14:50:55.573+0100] {logging_mixin.py:190} INFO - Current task name:save_model state:running start_date:2025-02-27 13:50:55.463548+00:00
+[2025-02-27T14:50:55.573+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag and current dag run status:running
+[2025-02-27T14:50:55.574+0100] {taskinstance.py:732} INFO - ::endgroup::
+[2025-02-27T14:50:55.587+0100] {logging_mixin.py:190} INFO - Model saved.
+[2025-02-27T14:50:55.587+0100] {python.py:240} INFO - Done. Returned value was: None
+[2025-02-27T14:50:55.590+0100] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-02-27T14:50:55.590+0100] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ml_project_dag, task_id=save_model, run_id=scheduled__2025-02-26T00:00:00+00:00, execution_date=20250226T000000, start_date=20250227T135055, end_date=20250227T135055
+[2025-02-27T14:50:55.605+0100] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-02-27T14:50:55.605+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-02-27T14:50:55.606+0100] {logging_mixin.py:190} INFO - Dag name:ml_project_dag queued_at:2025-02-27 13:50:36.458915+00:00
+[2025-02-27T14:50:55.606+0100] {logging_mixin.py:190} INFO - Task hostname:LAPTOP-M4D67JM4. operator:PythonOperator
+[2025-02-27T14:50:55.623+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-02-27T14:50:55.636+0100] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-02-27T14:50:55.642+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,15 @@
+/home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/cli/commands/scheduler_command.py:41 DeprecationWarning: The '[celery] task_adoption_timeout' config option is deprecated. Please update your config to use '[scheduler] task_queued_timeout' instead.
+/home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/cli/commands/scheduler_command.py:41 DeprecationWarning: The '[kubernetes_executor] worker_pods_pending_timeout' config option is deprecated. Please update your config to use '[scheduler] task_queued_timeout' instead.
+[2025-02-27 10:30:27 +0100] [17073] [INFO] Starting gunicorn 23.0.0
+[2025-02-27 10:30:27 +0100] [17073] [ERROR] Connection in use: ('::', 8793)
+[2025-02-27 10:30:27 +0100] [17073] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+/home/erij/Erij_Mazouz_4DS8_churn_ml_project/venv/lib/python3.8/site-packages/airflow/jobs/scheduler_job_runner.py:1107 DeprecationWarning: The worker_pods_pending_timeout_check_interval option in [kubernetes_executor] has been moved to the task_queued_timeout_check_interval option in [scheduler] - the old setting has been used, but please update your config.
+[2025-02-27 10:30:28 +0100] [17073] [ERROR] Connection in use: ('::', 8793)
+[2025-02-27 10:30:28 +0100] [17073] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-02-27 10:30:29 +0100] [17073] [ERROR] Connection in use: ('::', 8793)
+[2025-02-27 10:30:29 +0100] [17073] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-02-27 10:30:30 +0100] [17073] [ERROR] Connection in use: ('::', 8793)
+[2025-02-27 10:30:30 +0100] [17073] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-02-27 10:30:31 +0100] [17073] [ERROR] Connection in use: ('::', 8793)
+[2025-02-27 10:30:31 +0100] [17073] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-02-27 10:30:32 +0100] [17073] [ERROR] Can't connect to ('::', 8793)
