@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6616ba539b5f4046962d82f0fedc1957/artifacts
+end_time: 1741257476416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6616ba539b5f4046962d82f0fedc1957
+run_name: auspicious-wren-342
+run_uuid: 6616ba539b5f4046962d82f0fedc1957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257476296
+status: 3
+tags: []
+user_id: erij

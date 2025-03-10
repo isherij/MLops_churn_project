@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9c904f24f8644fa2b56facc9d7d4df85/artifacts
+end_time: 1741291884902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c904f24f8644fa2b56facc9d7d4df85
+run_name: rare-moth-341
+run_uuid: 9c904f24f8644fa2b56facc9d7d4df85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741291884876
+status: 3
+tags: []
+user_id: erij

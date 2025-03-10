@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/319c5208910547369344a0103e6a164b/artifacts
+end_time: 1741259280317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 319c5208910547369344a0103e6a164b
+run_name: beautiful-smelt-870
+run_uuid: 319c5208910547369344a0103e6a164b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741259280305
+status: 4
+tags: []
+user_id: erij

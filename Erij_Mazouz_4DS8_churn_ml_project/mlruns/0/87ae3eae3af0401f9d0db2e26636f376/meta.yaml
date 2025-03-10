@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/87ae3eae3af0401f9d0db2e26636f376/artifacts
+end_time: 1741338763403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87ae3eae3af0401f9d0db2e26636f376
+run_name: puzzled-goat-955
+run_uuid: 87ae3eae3af0401f9d0db2e26636f376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741338763376
+status: 3
+tags: []
+user_id: erij

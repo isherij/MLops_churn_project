@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3bd7759795fa469b9dddb775076ab728/artifacts
+end_time: 1741337841116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bd7759795fa469b9dddb775076ab728
+run_name: sneaky-stag-987
+run_uuid: 3bd7759795fa469b9dddb775076ab728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741337841084
+status: 3
+tags: []
+user_id: erij

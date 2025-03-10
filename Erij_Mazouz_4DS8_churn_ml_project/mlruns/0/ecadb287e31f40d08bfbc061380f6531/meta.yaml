@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ecadb287e31f40d08bfbc061380f6531/artifacts
+end_time: 1741298089255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecadb287e31f40d08bfbc061380f6531
+run_name: caring-gnu-716
+run_uuid: ecadb287e31f40d08bfbc061380f6531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741298089230
+status: 3
+tags: []
+user_id: erij

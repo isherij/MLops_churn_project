@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a8e2acffe9b74a60be2e51e13fdc5599/artifacts
+end_time: 1741258601737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e2acffe9b74a60be2e51e13fdc5599
+run_name: ambitious-foal-822
+run_uuid: a8e2acffe9b74a60be2e51e13fdc5599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741258601722
+status: 3
+tags: []
+user_id: erij

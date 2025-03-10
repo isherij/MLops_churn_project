@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c99af487bdec4285b916a89c583ebd1c/artifacts
+end_time: 1741339114544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c99af487bdec4285b916a89c583ebd1c
+run_name: trusting-eel-255
+run_uuid: c99af487bdec4285b916a89c583ebd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741339114512
+status: 3
+tags: []
+user_id: erij

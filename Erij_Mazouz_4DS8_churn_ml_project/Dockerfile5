@@ -1,0 +1,16 @@
+# Use a Python base image
+FROM python:3.8-slim
+
+# Install necessary dependencies
+RUN pip install --upgrade pip
+RUN pip install mlflow
+
+# Create a directory for MLflow artifacts and storage
+RUN mkdir /mlflow
+WORKDIR /mlflow
+
+# Expose the port for the MLflow UI
+EXPOSE 5000
+
+# Start the MLflow UI server using SQLite as the backend
+CMD ["mlflow", "ui", "--backend-store-uri", "sqlite:///mlflow.db", "--host", "0.0.0.0", "--port", "5000"]

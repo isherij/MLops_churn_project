@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/24d2039634424dafa9cb317218354b91/artifacts
+end_time: 1741258966529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24d2039634424dafa9cb317218354b91
+run_name: peaceful-asp-957
+run_uuid: 24d2039634424dafa9cb317218354b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741258966503
+status: 3
+tags: []
+user_id: erij

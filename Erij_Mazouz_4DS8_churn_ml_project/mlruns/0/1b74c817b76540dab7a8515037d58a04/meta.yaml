@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1b74c817b76540dab7a8515037d58a04/artifacts
+end_time: 1741301068164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b74c817b76540dab7a8515037d58a04
+run_name: brawny-duck-907
+run_uuid: 1b74c817b76540dab7a8515037d58a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741301068111
+status: 3
+tags: []
+user_id: erij

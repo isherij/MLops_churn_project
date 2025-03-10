@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0546b0ae5c0949fbbbd027ddbb9cf764/artifacts
+end_time: 1741338836236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0546b0ae5c0949fbbbd027ddbb9cf764
+run_name: powerful-colt-705
+run_uuid: 0546b0ae5c0949fbbbd027ddbb9cf764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741338836209
+status: 3
+tags: []
+user_id: erij

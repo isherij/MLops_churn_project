@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c3baa6ed63e4aff9950af523a29605d/artifacts
+end_time: 1741338761359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c3baa6ed63e4aff9950af523a29605d
+run_name: abrasive-hound-51
+run_uuid: 5c3baa6ed63e4aff9950af523a29605d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741338761325
+status: 3
+tags: []
+user_id: erij

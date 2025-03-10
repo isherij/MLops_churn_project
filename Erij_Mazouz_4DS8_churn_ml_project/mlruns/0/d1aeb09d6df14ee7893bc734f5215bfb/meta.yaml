@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1aeb09d6df14ee7893bc734f5215bfb/artifacts
+end_time: 1741291810562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1aeb09d6df14ee7893bc734f5215bfb
+run_name: selective-quail-860
+run_uuid: d1aeb09d6df14ee7893bc734f5215bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741291810535
+status: 3
+tags: []
+user_id: erij

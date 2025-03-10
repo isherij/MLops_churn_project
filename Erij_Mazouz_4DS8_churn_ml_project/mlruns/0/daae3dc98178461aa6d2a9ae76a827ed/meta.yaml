@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/daae3dc98178461aa6d2a9ae76a827ed/artifacts
+end_time: 1741298122440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daae3dc98178461aa6d2a9ae76a827ed
+run_name: intrigued-dove-182
+run_uuid: daae3dc98178461aa6d2a9ae76a827ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741298122410
+status: 3
+tags: []
+user_id: erij

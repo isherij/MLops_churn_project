@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Churn Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9; /* Light background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        h1 {
+            color: #2c3e50; /* Dark color for the title */
+            text-align: center;
+        }
+
+        .form-container {
+            background-color: #ffffff; /* White background for the form */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        label {
+            font-weight: bold;
+            color: #34495e; /* Darker color for labels */
+            margin-top: 10px;
+            display: block;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            font-size: 14px;
+        }
+
+        input[type="submit"] {
+            background-color: #3498db; /* Blue color for the submit button */
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #2980b9; /* Darker blue on hover */
+        }
+
+        .form-container input[type="text"]:focus {
+            border-color: #3498db; /* Blue border on input focus */
+            outline: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h1>Churn Prediction</h1>
+        <form action="/predict" method="post">
+            <label for="State">State:</label>
+            <input type="text" id="State" name="State" required>
+
+            <label for="Account length">Account length:</label>
+            <input type="text" id="Account length" name="Account length" required>
+
+            <label for="Area code">Area code:</label>
+            <input type="text" id="Area code" name="Area code" required>
+
+            <label for="International plan">International plan:</label>
+            <input type="text" id="International plan" name="International plan" required>
+
+            <label for="Voice mail plan">Voice mail plan:</label>
+            <input type="text" id="Voice mail plan" name="Voice mail plan" required>
+
+            <label for="Total day minutes">Total day minutes:</label>
+            <input type="text" id="Total day minutes" name="Total day minutes" required>
+
+            <label for="Total day calls">Total day calls:</label>
+            <input type="text" id="Total day calls" name="Total day calls" required>
+
+            <label for="Total eve minutes">Total eve minutes:</label>
+            <input type="text" id="Total eve minutes" name="Total eve minutes" required>
+
+            <label for="Total eve calls">Total eve calls:</label>
+            <input type="text" id="Total eve calls" name="Total eve calls" required>
+
+            <label for="Total night minutes">Total night minutes:</label>
+            <input type="text" id="Total night minutes" name="Total night minutes" required>
+
+            <!-- Add more input fields as per your model's features -->
+
+            <input type="submit" value="Predict">
+        </form>
+    </div>
+</body>
+</html>
+

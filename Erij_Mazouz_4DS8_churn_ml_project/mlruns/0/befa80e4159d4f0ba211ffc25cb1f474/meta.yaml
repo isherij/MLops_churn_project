@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/befa80e4159d4f0ba211ffc25cb1f474/artifacts
+end_time: 1741302134006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: befa80e4159d4f0ba211ffc25cb1f474
+run_name: handsome-snail-547
+run_uuid: befa80e4159d4f0ba211ffc25cb1f474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741302133980
+status: 3
+tags: []
+user_id: erij

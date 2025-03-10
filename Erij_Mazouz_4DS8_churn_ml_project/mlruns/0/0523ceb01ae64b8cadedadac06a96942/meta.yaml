@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0523ceb01ae64b8cadedadac06a96942/artifacts
+end_time: 1741298070791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0523ceb01ae64b8cadedadac06a96942
+run_name: victorious-lynx-677
+run_uuid: 0523ceb01ae64b8cadedadac06a96942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741298070759
+status: 3
+tags: []
+user_id: erij

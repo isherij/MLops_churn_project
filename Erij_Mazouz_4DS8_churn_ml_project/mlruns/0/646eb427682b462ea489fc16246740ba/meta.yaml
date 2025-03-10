@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/646eb427682b462ea489fc16246740ba/artifacts
+end_time: 1741259436272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646eb427682b462ea489fc16246740ba
+run_name: defiant-shrew-286
+run_uuid: 646eb427682b462ea489fc16246740ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741259436250
+status: 3
+tags: []
+user_id: erij

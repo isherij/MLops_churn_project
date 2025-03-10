@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e3b292fd8f0042bf93f76d4097958d21/artifacts
+end_time: 1741258785141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3b292fd8f0042bf93f76d4097958d21
+run_name: sneaky-gnu-392
+run_uuid: e3b292fd8f0042bf93f76d4097958d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741258785126
+status: 3
+tags: []
+user_id: erij

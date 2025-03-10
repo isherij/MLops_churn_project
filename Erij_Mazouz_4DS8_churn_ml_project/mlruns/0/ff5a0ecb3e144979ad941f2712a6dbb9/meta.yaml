@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff5a0ecb3e144979ad941f2712a6dbb9/artifacts
+end_time: 1741291897062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff5a0ecb3e144979ad941f2712a6dbb9
+run_name: worried-gnu-916
+run_uuid: ff5a0ecb3e144979ad941f2712a6dbb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741291897035
+status: 3
+tags: []
+user_id: erij

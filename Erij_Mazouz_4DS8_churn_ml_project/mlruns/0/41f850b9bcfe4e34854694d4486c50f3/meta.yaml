@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/41f850b9bcfe4e34854694d4486c50f3/artifacts
+end_time: 1741291808243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41f850b9bcfe4e34854694d4486c50f3
+run_name: traveling-tern-687
+run_uuid: 41f850b9bcfe4e34854694d4486c50f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741291808088
+status: 3
+tags: []
+user_id: erij

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9cf88cbec38748a9af2a9b7fcf80abdf/artifacts
+end_time: 1741291819169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cf88cbec38748a9af2a9b7fcf80abdf
+run_name: skittish-fox-720
+run_uuid: 9cf88cbec38748a9af2a9b7fcf80abdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741291819140
+status: 3
+tags: []
+user_id: erij

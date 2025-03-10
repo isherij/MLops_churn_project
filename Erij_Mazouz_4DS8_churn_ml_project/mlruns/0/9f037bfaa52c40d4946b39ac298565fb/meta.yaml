@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9f037bfaa52c40d4946b39ac298565fb/artifacts
+deleted_time: 1740820040359
+end_time: 1740819969128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9f037bfaa52c40d4946b39ac298565fb
+run_name: peaceful-shad-895
+run_uuid: 9f037bfaa52c40d4946b39ac298565fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740819968661
+status: 4
+tags: []
+user_id: erij

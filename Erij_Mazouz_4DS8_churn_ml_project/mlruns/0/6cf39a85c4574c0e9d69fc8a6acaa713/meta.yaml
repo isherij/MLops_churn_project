@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6cf39a85c4574c0e9d69fc8a6acaa713/artifacts
+end_time: 1741260674057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cf39a85c4574c0e9d69fc8a6acaa713
+run_name: sincere-carp-55
+run_uuid: 6cf39a85c4574c0e9d69fc8a6acaa713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741260674024
+status: 3
+tags: []
+user_id: erij
